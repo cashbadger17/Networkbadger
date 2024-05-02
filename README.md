@@ -1,2 +1,2 @@
 # Networkbadger
-Spinning Up some Good Stuff
+Spinning Up Some Good Stuff
